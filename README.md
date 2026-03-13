@@ -19,6 +19,7 @@ A curated directory of publicly available OpenAPI 3.x and Swagger 2.0 specificat
 | Service | Description | URL |
 |---------|-------------|-----|
 | Stripe | Payment processing | https://raw.githubusercontent.com/stripe/openapi/refs/heads/master/openapi/spec3.yaml |
+| Polar | Payment processing | https://api.polar.sh/openapi.json |
 | Square | POS and payments | https://raw.githubusercontent.com/square/connect-api-specification/master/square_connect_api.json |
 | Plaid | Financial data aggregation | https://raw.githubusercontent.com/plaid/plaid-openapi/master/2020-09-14.yml |
 | PayPal | Payment platform | https://raw.githubusercontent.com/paypal/paypal-rest-api-specifications/main/openapi/checkout_orders_v2.json |
