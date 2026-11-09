@@ -1396,3 +1396,10 @@ Curated list of **direct spec file URLs** for well-known public APIs — ready t
 **Sources:** Manually curated + [APIs.guru OpenAPI Directory](https://apis.guru), official GitHub repositories.
 
 *Compiled March 2026. Some URLs may change as repos update; check the linked GitHub repos for the latest paths.*
+
+
+## Search & SEO
+
+| Service | Description | URL |
+|---|---|---|
+| AgentSEO | Paid SEO and AEO API for keyword research, Google SERP analysis, rank tracking, content gaps, local visibility, and AI search visibility (AEO/GEO). Includes 100 one-time live credits; paid plans start at $9/month. | https://www.agentseo.dev/openapi.yaml |
